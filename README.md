@@ -10,7 +10,10 @@ I like Java and JavaScript, start study security information..
 
 <h2> Repository languages :</h2>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"
+src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"
+
+/> 
 
 <!--
 **Lorenzo0009/Lorenzo0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
