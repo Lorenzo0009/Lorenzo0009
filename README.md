@@ -1,8 +1,8 @@
 <h1> Hi 👋, I'm Lorenzo </h1>
 
-<h2> I'm starting to study JS to create a bot for discord! </h2>
+<h3> I'm starting to study JS to create a bot for discord! </h2>
 
-<h3> I love ☕!</h3>
+<h4> I love ☕!</h3>
 
 <br /><a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
@@ -10,7 +10,6 @@
 
 </a><br />
 
-<h2> Info :</h2>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"
     width="45" height="45" />
