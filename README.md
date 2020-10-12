@@ -18,9 +18,9 @@ I like Java and JavaScript, start study security information..
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"
     alt="visual code" width="45" height="45" />
-<img src="" alt="java" width="45" height="45" />
 <!--
 **Lorenzo0009/Lorenzo0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="" alt="java" width="45" height="45" /> -->
 
 Here are some ideas to get you started:
 
