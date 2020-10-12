@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="firefox" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="45" height="45"/>
-<img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
 
 
 <h5>
