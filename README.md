@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <div style={flex-direction: row}>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://yt3.ggpht.com/a/AATXAJw1tXvJInOnm44MdEF3kS0b8x-W4Twj27SYvJ9gRw=s100-c-k-c0xffffffff-no-rj-mo" alt="discord dev" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSscoZV6FwU9nosg8MWW_Wg_X5bO6Ugz3XPhA&usqp=CAU" alt="eclipse" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="kali linux" width="45" height="45"/>
 <img src="https://img.icons8.com/cotton/344/source-code--v5.png" alt="code" width="45" height="45"/>
-<img src="https://yt3.ggpht.com/a/AATXAJw1tXvJInOnm44MdEF3kS0b8x-W4Twj27SYvJ9gRw=s100-c-k-c0xffffffff-no-rj-mo" alt="discord dev" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSscoZV6FwU9nosg8MWW_Wg_X5bO6Ugz3XPhA&usqp=CAU" alt="eclipse" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg " alt="nodejs " width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="45" height="45" />
