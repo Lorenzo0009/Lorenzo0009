@@ -21,7 +21,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="45" height="45" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="cH" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="firefox" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="45" height="45"/>
 
 <h5>
 Here are some ideas to get you started:
