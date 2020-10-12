@@ -3,7 +3,12 @@
 
 <h5>
 
-- ☕ Starting study security information.. </h5>
+- ☕ Starting study security information.. 
+- ⌨️ I have a project in discord that have many people even..
+
+
+
+</h5>
 
 <br />
 <a>
