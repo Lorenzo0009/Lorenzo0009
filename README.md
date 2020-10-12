@@ -2,7 +2,7 @@
 <h3> I'm starting to study JS to create a bot for discord!</h3>
 
 <h4>I love ☕!</h4><h5>
-Here are some ideas to get you started:
+
 - ☕ I like Java and JavaScript, start study security information.. </h5>
 
 <br />
