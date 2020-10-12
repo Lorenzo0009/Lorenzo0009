@@ -1,8 +1,6 @@
 <h1> Hi 👋, I'm Lorenzo </h1>
 <h3> I'm starting to study JS to create a bot for discord!</h3>
 
-<h4>I love ☕!</h4>
-
 <br />
 <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
