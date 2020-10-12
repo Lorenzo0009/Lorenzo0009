@@ -1,9 +1,9 @@
 <h1> Hi 👋, I'm Lorenzo </h1>
 <h3> I'm starting to study JS to create a bot for discord these days..!</h3>
 
-<h4>I love ☕!</h4><h5>
+<h5>
 
-- ☕ I like Java and JavaScript, start study security information.. </h5>
+- ☕ Starting study security information.. </h5>
 
 <br />
 <a>
