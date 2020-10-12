@@ -5,7 +5,8 @@
 
 - ☕ Starting study security information.. 
 - ⌨️ I have a project in discord that have many people even..
-- Creator of a bot for a server with more than 1800 people ...
+- Creator of a bot for discord..
+- Owner of a server on discord...
 - 📝 Learning languages ​​every day...
 - Coffee is very tasty
 
