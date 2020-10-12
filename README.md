@@ -1,4 +1,4 @@
-<h1> Hi 👋, I'm Lorenzo </h1>
+<h1> Salve 👊, I'm Lorenzo </h1>
 <h3> I'm starting to study JS to create a bot for discord these days..!</h3>
 
 <h5>
