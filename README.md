@@ -4,11 +4,11 @@
 <h5>
 
 - [💻Linux..] Starting study security information.. 
-- [⌨️Project] I have a project in discord that have many people even..
-- [🤖Creator] of a bot for discord..
-- [👑Owner] of a server on discord...
 - [📝Learning] languages ​​every day...
 - [☕Coffee] is very tasty
+- [👑Owner] of a server on discord...
+- [⌨️Project] I have a project in discord that have many people even..
+- [🤖Creator] of a bot for discord..
 
 
 </h5>
