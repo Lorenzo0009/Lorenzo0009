@@ -8,6 +8,8 @@
 </a>
 <br/>
 
+<h2> Repository languages :</h2>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
 
 <!--
