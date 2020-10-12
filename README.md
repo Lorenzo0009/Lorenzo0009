@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Lorenzo
 
+## https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667
 <!--
 **Lorenzo0009/Lorenzo0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
