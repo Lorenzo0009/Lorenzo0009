@@ -21,6 +21,7 @@
     alt="visual code" width="45" height="45" />
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>     
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <!--
 **Lorenzo0009/Lorenzo0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  <img src="" alt="java" width="45" height="45" /> -->
