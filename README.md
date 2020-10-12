@@ -21,6 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="75" height="75" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="75" height="75"/>
 
 <h5>
 Here are some ideas to get you started:
