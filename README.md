@@ -3,12 +3,12 @@
 
 <h5>
 
-- ☕ Starting study security information.. 
-- ⌨️ I have a project in discord that have many people even..
-- Creator of a bot for discord..
-- Owner of a server on discord...
-- 📝 Learning languages ​​every day...
-- Coffee is very tasty
+- [💻Linux..] Starting study security information.. 
+- [⌨️Project] I have a project in discord that have many people even..
+- [🤖Creator] of a bot for discord..
+- [👑Owner] of a server on discord...
+- [📝Learning] languages ​​every day...
+- [☕Coffee] is very tasty
 
 
 </h5>
