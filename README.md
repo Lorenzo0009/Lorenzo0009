@@ -1,7 +1,10 @@
 <h1> Hi 👋, I'm Lorenzo </h1>
 
-<br/><a>
+<h2> I'm starting to study JS to create a bot for discord!  </h2>
+Eu estudo Java...
+JavaScript...
 
+<br/><a>
 <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true" alt="Lorenzo0009" />
 
 </a><br/>
