@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://yt3.ggpht.com/a/AATXAJw1tXvJInOnm44MdEF3kS0b8x-W4Twj27SYvJ9gRw=s100-c-k-c0xffffffff-no-rj-mo" alt="discord dev" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSscoZV6FwU9nosg8MWW_Wg_X5bO6Ugz3XPhA&usqp=CAU" alt="eclipse" width="45" height="45"/>
+<img src="https://img.icons8.com/material/452/intellij-idea.png" alt="intellij" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas" width="45" height="45"/>
 </div>
