@@ -1,6 +1,10 @@
 <h1> Hi 👋, I'm Lorenzo </h1>
 <h3> I'm starting to study JS to create a bot for discord!</h3>
 
+<h4>I love ☕!</h4><h5>
+Here are some ideas to get you started:
+- ☕ I like Java and JavaScript, start study security information.. </h5>
+
 <br />
 <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
@@ -8,6 +12,7 @@
 </a>
  <br/>
 
+<div style={flex-direction: row}>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
@@ -28,3 +33,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas" width="45" height="45"/>
+</div>
