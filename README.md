@@ -18,7 +18,8 @@
 <img src="https://img.icons8.com/material/452/intellij-idea.png" alt="intellij " width="45" height="45"/>
 <img src="https://img.icons8.com/color/2x/kali-linux.png" alt="kali linux" width="45" height="45"/>
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="kali linux" width="45" height="45"/>
-
+<img src="https://img.icons8.com/cotton/344/source-code--v5.png" alt="code" width="45" height="45"/>
+<img src="https://yt3.ggpht.com/a/AATXAJw1tXvJInOnm44MdEF3kS0b8x-W4Twj27SYvJ9gRw=s100-c-k-c0xffffffff-no-rj-mo" alt="discord dev" width="45" height="45"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg " alt="nodejs " width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="45" height="45" />
