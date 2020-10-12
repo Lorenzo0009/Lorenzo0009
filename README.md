@@ -1,4 +1,4 @@
-### Hi 👋, I'm Lorenzo
+<h1> Hi 👋, I'm Lorenzo </h1>
 
 ![Lorenzo github stats](https://github-readme-stats.vercel.app/api?Lorenzo0009=anuraghazra&show_icons=true&theme=radical)
 
