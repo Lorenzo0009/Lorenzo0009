@@ -1,11 +1,13 @@
 <<<<<<< HEAD
 <h1> Hi 👋, I'm Lorenzo </h1>
 
+
 <br/>
 <a>
-![Lorenzo github stats](https://github-readme-stats.vercel.app/api?Lorenzo0009=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true" alt="Lorenzo0009" />
 </a>
 <br/>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
 
 <!--
