@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 <h1> Hi 👋, I'm Lorenzo </h1>
 
+<br/><a>
 
-<br/>
-<a>
 <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true" alt="Lorenzo0009" />
-</a>
-<br/>
+
+</a><br/>
 
 <h2> Repository languages :</h2>
 
