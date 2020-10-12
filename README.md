@@ -2,6 +2,8 @@
 
 <h2> I'm starting to study JS to create a bot for discord! </h2>
 
+<h3> I love ☕!</h3>
+
 <br /><a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
         alt="Lorenzo0009" />
@@ -22,5 +24,5 @@
  <img src="" alt="java" width="45" height="45" /> -->
 
 Here are some ideas to get you started:
-- I like Java and JavaScript, start study security information..
+- ☕ I like Java and JavaScript, start study security information..
 >
