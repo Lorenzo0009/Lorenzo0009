@@ -30,7 +30,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas" width="45" height="45"/>
-
-<h5>
-Here are some ideas to get you started:
-- ☕ I like Java and JavaScript, start study security information.. </h5>
