@@ -25,8 +25,7 @@
     width="45" height="45" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45"
     height="45" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg
-" alt="nodejs" width="45" height="45" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 
 Here are some ideas to get you started:
 - ☕ I like Java and JavaScript, start study security information..
