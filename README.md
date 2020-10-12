@@ -1,7 +1,12 @@
 <<<<<<< HEAD
 <h1> Hi 👋, I'm Lorenzo </h1>
 
+<br/>
+<a>
 ![Lorenzo github stats](https://github-readme-stats.vercel.app/api?Lorenzo0009=anuraghazra&show_icons=true&theme=radical)
+</a>
+<br/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
 
 <!--
 **Lorenzo0009/Lorenzo0009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
