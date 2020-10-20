@@ -13,12 +13,12 @@
 
 </h5>
 
-<br />
+<br>
 <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
         alt="Lorenzo0009" />
 </a>
- <br/>
+ </br>
 
 <div style={flex-direction: row}>
 
