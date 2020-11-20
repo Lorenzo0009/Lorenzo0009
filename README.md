@@ -2,11 +2,9 @@
 <h3> I'm starting to study JS to create a bot for discord these days..!</h3>
 
 <h5>
-
-- [💻Linux..] Starting study security information.. 
-- [📝Learning] languages ​​every day...
+ 
+- [📝Learning] ​​every day...
 - [☕Coffee] is very tasty
-- [👑Owner] of a server on discord...
 - [⌨️Project] I have a project in discord that have many people even..
 - [🤖Creator] of a bot for discord..
 
