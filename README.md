@@ -4,7 +4,7 @@
 <h5>
  
 - [📝Learning] ​​every day...
-- [☕Coffee] is very tasty
+- [☕Coffee] is good :3
 - [⌨️Project] I have a project in discord that have many people even..
 - [🤖Creator] of a bot for discord..
 
