@@ -5,8 +5,9 @@
  
 - [📝Learning] ​​every day...
 - [☕Coffee] is good :3
-- [⌨️Project] I have a project in discord that have many people even..
-- [🤖Creator] of a bot for discord..
+- [⌨️Project] I like discord!
+- [☕] Desenvolvedor de plugins de Minecraft
+- [🤖] Desenvolvedor de bots para o Discord!
 
 
 </h5>
