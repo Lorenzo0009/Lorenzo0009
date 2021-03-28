@@ -3,11 +3,12 @@
 
 <h5>
  
-- [📝Learning] ​​every day...
+- [📝Learning]...
+
 - [☕Coffee] is good :3
-- [⌨️Project] I like discord!
+
 - [☕] Desenvolvedor de plugins de Minecraft
-- [🤖] Desenvolvedor de bots para o Discord!
+- [🤖] Desenvolvedor de Bots para o Discord!
 
 
 </h5>
