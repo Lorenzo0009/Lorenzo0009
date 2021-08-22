@@ -1,5 +1,5 @@
 <h1> Salve 🤙,Eu sou Lorenzo </h1>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="500" height="500"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 
 <h3> Curto java javascript e plugins..!</h3>
 
