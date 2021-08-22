@@ -1,15 +1,12 @@
 <h1> Salve 🤙,Eu sou Lorenzo </h1>
 <h3> </h3>
 
-<h5>
 - [📝Learning]...
 - [☕] Coffee is good :3
 - [⌨️] Linux...
 - [☕] Já desenvolvi plugins para o Minecraft
 - [🤖] Desenvolvedor de Bots para o Discord!
 - [⌨️] Ethical...
-
-</h5>
 
 <br>
 <a>
