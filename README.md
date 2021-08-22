@@ -16,7 +16,8 @@ Bot para o Discord
 | <img class="imagem-1" src="https://anima-uploads.s3.amazonaws.com/projects/5fa84e566b2b519f9b204afe/releases/5fa84e5ee06687ac30fba9d7/img/imagem-1@1x.png" width="170"> |<br> Mini projeto de criar meu bot para o discord e no futuro deixar ele publico para todos!.<br>|
 **Lorenzo#0009**| Criador do LorenzoBot
 | <img class="imagem-1" src="https://cdn.discordapp.com/attachments/774075777850540079/774075845143691274/download_14_1.png" width="170">|<br> Bot RPG para o discord!
-|LorenzoBot#9073|
+|LorenzoBot#2702|
+
 <br>
 <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo0009&show_icons=true&theme=dracula&count_private=true"
