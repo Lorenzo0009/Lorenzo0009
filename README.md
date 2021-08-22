@@ -1,11 +1,9 @@
 <h1> Salve 🤙,Eu sou Lorenzo </h1>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-
-<h3> Curto java javascript e plugins..!</h3>
 
 <h5>
 - [📝Learning]...
-- [☕Coffee] is good :3
+- [☕] Coffee is good :3
+- [⌨️] Linux...
 - [☕] Já desenvolvi plugins para o Minecraft
 - [🤖] Desenvolvedor de Bots para o Discord!
 - [⌨️] Ethical...
