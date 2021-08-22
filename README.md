@@ -2,7 +2,7 @@
 <h3> </h3>
 
 - [📝Learning]...
-- [☕] Coffee is good :3
+- [☕] Café é bom :3
 - [⌨️] Linux...
 - [☕] Já desenvolvi plugins para o Minecraft
 - [🤖] Desenvolvedor de Bots para o Discord!
