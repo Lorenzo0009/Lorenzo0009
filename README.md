@@ -5,12 +5,10 @@
 
 <h5>
 - [📝Learning]...
-
 - [☕Coffee] is good :3
-
-- [☕] Desenvolvedor de plugins de Minecraft
+- [☕] Já desenvolvi plugins para o Minecraft
 - [🤖] Desenvolvedor de Bots para o Discord!
-
+- [⌨️] Ethical...
 
 </h5>
 
