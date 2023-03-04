@@ -6,7 +6,6 @@
 - [☕] Já desenvolvi plugins.
 - [🤖] Curto Bot para o Discord!
 - [⌨️] Linux...
-- [⌨️] Ethical...
 
 # LorenzoBot
 Bot para o Discord
